@@ -1,0 +1,2 @@
+- If you’re building a house and subclassing a “House Blueprint” that already installs plumbing and electricity, calling super().__init__() is like saying: “Go ahead and do all that standard setup first — I’m just adding custom windows on top.”
+
